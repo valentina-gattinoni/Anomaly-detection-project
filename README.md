@@ -5,6 +5,7 @@ This repository contains:
 - Excel files with training and test data
 - Pyhton script to compile and manage data, and train the Machine Learning models adopted and to produce effective data visualization of the results
 - Log file to track the most relevant model results
+- Power point presesentation of the project
 
 ## Idea of the project
 The idea that almost entirely drove the project was to evaluate the performance of the anomaly detection model through a practical, business-oriented approach. As a matter of fact, a labeled test set obtained by fractioning the original dataset would contain roughly 100 to 200 samples. Since the number of anomalies is, in general, much smaller than the number of normal data, even one misclassified anomaly would change drastically the performance of the model. For this reason, two important decisions were taken:
