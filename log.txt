@@ -1,0 +1,465 @@
+Model: "model"
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ Input (InputLayer)          [(None, 50, 9)]           0         
+                                                                 
+ LSTM1 (LSTM)                (None, 50, 8)             576       
+                                                                 
+ LSTM2 (LSTM)                (None, 4)                 208       
+                                                                 
+ classifier (Dense)          (None, 32)                160       
+                                                                 
+ output (Dense)              (None, 1)                 33        
+                                                                 
+=================================================================
+Total params: 977
+Trainable params: 977
+Non-trainable params: 0
+_________________________________________________________________
+Accuracy:	0.896
+Recall:		0.483
+Precision:	0.636
+F1score:	0.549
+True Neg:	83.33%
+False Pos:	3.60%
+False Neg:	6.76%
+True Pos:	6.31%
+
+
+
+
+Model: "model"
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ Input (InputLayer)          [(None, 50, 9)]           0         
+                                                                 
+ LSTM1 (LSTM)                (None, 50, 8)             576       
+                                                                 
+ LSTM2 (LSTM)                (None, 4)                 208       
+                                                                 
+ classifier (Dense)          (None, 32)                160       
+                                                                 
+ output (Dense)              (None, 1)                 33        
+                                                                 
+=================================================================
+Total params: 977
+Trainable params: 977
+Non-trainable params: 0
+_________________________________________________________________
+Accuracy:	0.896
+Recall:		0.483
+Precision:	0.636
+F1score:	0.549
+True Neg:	83.33%
+False Pos:	3.60%
+False Neg:	6.76%
+True Pos:	6.31%
+
+
+
+
+Model: "model"
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ Input (InputLayer)          [(None, 50, 9)]           0         
+                                                                 
+ LSTM1 (LSTM)                (None, 50, 8)             576       
+                                                                 
+ LSTM2 (LSTM)                (None, 4)                 208       
+                                                                 
+ classifier (Dense)          (None, 32)                160       
+                                                                 
+ output (Dense)              (None, 1)                 33        
+                                                                 
+=================================================================
+Total params: 977
+Trainable params: 977
+Non-trainable params: 0
+_________________________________________________________________
+Accuracy:	0.905
+Recall:		0.517
+Precision:	0.682
+F1score:	0.588
+True Neg:	83.78%
+False Pos:	3.15%
+False Neg:	6.31%
+True Pos:	6.76%
+
+
+
+
+Model: "model"
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ Input (InputLayer)          [(None, 50, 9)]           0         
+                                                                 
+ LSTM1 (LSTM)                (None, 50, 8)             576       
+                                                                 
+ LSTM2 (LSTM)                (None, 4)                 208       
+                                                                 
+ classifier (Dense)          (None, 32)                160       
+                                                                 
+ output (Dense)              (None, 1)                 33        
+                                                                 
+=================================================================
+Total params: 977
+Trainable params: 977
+Non-trainable params: 0
+_________________________________________________________________
+Accuracy:	0.905
+Recall:		0.517
+Precision:	0.682
+F1score:	0.588
+True Neg:	83.78%
+False Pos:	3.15%
+False Neg:	6.31%
+True Pos:	6.76%
+
+
+
+
+Model: "model"
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ Input (InputLayer)          [(None, 50, 9)]           0         
+                                                                 
+ LSTM1 (LSTM)                (None, 50, 8)             576       
+                                                                 
+ LSTM2 (LSTM)                (None, 4)                 208       
+                                                                 
+ classifier (Dense)          (None, 32)                160       
+                                                                 
+ output (Dense)              (None, 1)                 33        
+                                                                 
+=================================================================
+Total params: 977
+Trainable params: 977
+Non-trainable params: 0
+_________________________________________________________________
+Accuracy:	0.896
+Recall:		0.483
+Precision:	0.636
+F1score:	0.549
+True Neg:	83.33%
+False Pos:	3.60%
+False Neg:	6.76%
+True Pos:	6.31%
+
+
+
+
+Model: "model"
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ Input (InputLayer)          [(None, 50, 9)]           0         
+                                                                 
+ LSTM1 (LSTM)                (None, 50, 8)             576       
+                                                                 
+ LSTM2 (LSTM)                (None, 4)                 208       
+                                                                 
+ classifier (Dense)          (None, 32)                160       
+                                                                 
+ output (Dense)              (None, 1)                 33        
+                                                                 
+=================================================================
+Total params: 977
+Trainable params: 977
+Non-trainable params: 0
+_________________________________________________________________
+Accuracy:	0.896
+Recall:		0.483
+Precision:	0.636
+F1score:	0.549
+True Neg:	83.33%
+False Pos:	3.60%
+False Neg:	6.76%
+True Pos:	6.31%
+
+
+
+
+Model: "model"
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ Input (InputLayer)          [(None, 50, 9)]           0         
+                                                                 
+ LSTM1 (LSTM)                (None, 50, 8)             576       
+                                                                 
+ LSTM2 (LSTM)                (None, 4)                 208       
+                                                                 
+ classifier (Dense)          (None, 32)                160       
+                                                                 
+ output (Dense)              (None, 1)                 33        
+                                                                 
+=================================================================
+Total params: 977
+Trainable params: 977
+Non-trainable params: 0
+_________________________________________________________________
+Accuracy:	0.905
+Recall:		0.517
+Precision:	0.682
+F1score:	0.588
+True Neg:	83.78%
+False Pos:	3.15%
+False Neg:	6.31%
+True Pos:	6.76%
+
+
+
+
+Model: "model"
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ Input (InputLayer)          [(None, 50, 9)]           0         
+                                                                 
+ LSTM1 (LSTM)                (None, 50, 8)             576       
+                                                                 
+ LSTM2 (LSTM)                (None, 4)                 208       
+                                                                 
+ classifier (Dense)          (None, 32)                160       
+                                                                 
+ output (Dense)              (None, 1)                 33        
+                                                                 
+=================================================================
+Total params: 977
+Trainable params: 977
+Non-trainable params: 0
+_________________________________________________________________
+Accuracy:	0.896
+Recall:		0.483
+Precision:	0.636
+F1score:	0.549
+True Neg:	83.33%
+False Pos:	3.60%
+False Neg:	6.76%
+True Pos:	6.31%
+
+
+
+
+Model: "model"
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ Input (InputLayer)          [(None, 50, 9)]           0         
+                                                                 
+ LSTM1 (LSTM)                (None, 50, 8)             576       
+                                                                 
+ LSTM2 (LSTM)                (None, 4)                 208       
+                                                                 
+ classifier (Dense)          (None, 32)                160       
+                                                                 
+ output (Dense)              (None, 1)                 33        
+                                                                 
+=================================================================
+Total params: 977
+Trainable params: 977
+Non-trainable params: 0
+_________________________________________________________________
+Accuracy:	0.905
+Recall:		0.517
+Precision:	0.682
+F1score:	0.588
+True Neg:	83.78%
+False Pos:	3.15%
+False Neg:	6.31%
+True Pos:	6.76%
+
+
+
+
+Model: "model"
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ Input (InputLayer)          [(None, 50, 9)]           0         
+                                                                 
+ LSTM1 (LSTM)                (None, 50, 8)             576       
+                                                                 
+ LSTM2 (LSTM)                (None, 4)                 208       
+                                                                 
+ classifier (Dense)          (None, 32)                160       
+                                                                 
+ output (Dense)              (None, 1)                 33        
+                                                                 
+=================================================================
+Total params: 977
+Trainable params: 977
+Non-trainable params: 0
+_________________________________________________________________
+Accuracy:	0.887
+Recall:		0.448
+Precision:	0.591
+F1score:	0.510
+True Neg:	82.88%
+False Pos:	4.05%
+False Neg:	7.21%
+True Pos:	5.86%
+
+
+
+
+Model: "model"
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ Input (InputLayer)          [(None, 50, 9)]           0         
+                                                                 
+ LSTM1 (LSTM)                (None, 50, 8)             576       
+                                                                 
+ LSTM2 (LSTM)                (None, 4)                 208       
+                                                                 
+ classifier (Dense)          (None, 32)                160       
+                                                                 
+ output (Dense)              (None, 1)                 33        
+                                                                 
+=================================================================
+Total params: 977
+Trainable params: 977
+Non-trainable params: 0
+_________________________________________________________________
+Accuracy:	0.896
+Recall:		0.483
+Precision:	0.636
+F1score:	0.549
+True Neg:	83.33%
+False Pos:	3.60%
+False Neg:	6.76%
+True Pos:	6.31%
+
+
+
+
+Model: "model"
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ Input (InputLayer)          [(None, 50, 9)]           0         
+                                                                 
+ LSTM1 (LSTM)                (None, 50, 8)             576       
+                                                                 
+ LSTM2 (LSTM)                (None, 4)                 208       
+                                                                 
+ classifier (Dense)          (None, 32)                160       
+                                                                 
+ output (Dense)              (None, 1)                 33        
+                                                                 
+=================================================================
+Total params: 977
+Trainable params: 977
+Non-trainable params: 0
+_________________________________________________________________
+Accuracy:	0.896
+Recall:		0.483
+Precision:	0.636
+F1score:	0.549
+True Neg:	83.33%
+False Pos:	3.60%
+False Neg:	6.76%
+True Pos:	6.31%
+
+
+
+
+Model: "model"
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ Input (InputLayer)          [(None, 50, 9)]           0         
+                                                                 
+ LSTM1 (LSTM)                (None, 50, 8)             576       
+                                                                 
+ LSTM2 (LSTM)                (None, 4)                 208       
+                                                                 
+ classifier (Dense)          (None, 32)                160       
+                                                                 
+ output (Dense)              (None, 1)                 33        
+                                                                 
+=================================================================
+Total params: 977
+Trainable params: 977
+Non-trainable params: 0
+_________________________________________________________________
+Accuracy:	0.901
+Recall:		0.448
+Precision:	0.684
+F1score:	0.542
+True Neg:	84.23%
+False Pos:	2.70%
+False Neg:	7.21%
+True Pos:	5.86%
+
+
+
+
+Model: "model"
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ Input (InputLayer)          [(None, 50, 9)]           0         
+                                                                 
+ LSTM1 (LSTM)                (None, 50, 8)             576       
+                                                                 
+ LSTM2 (LSTM)                (None, 4)                 208       
+                                                                 
+ classifier (Dense)          (None, 32)                160       
+                                                                 
+ output (Dense)              (None, 1)                 33        
+                                                                 
+=================================================================
+Total params: 977
+Trainable params: 977
+Non-trainable params: 0
+_________________________________________________________________
+Accuracy:	0.896
+Recall:		0.483
+Precision:	0.636
+F1score:	0.549
+True Neg:	83.33%
+False Pos:	3.60%
+False Neg:	6.76%
+True Pos:	6.31%
+
+
+
+
+Model: "model"
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ Input (InputLayer)          [(None, 50, 9)]           0         
+                                                                 
+ LSTM1 (LSTM)                (None, 50, 8)             576       
+                                                                 
+ LSTM2 (LSTM)                (None, 4)                 208       
+                                                                 
+ classifier (Dense)          (None, 32)                160       
+                                                                 
+ output (Dense)              (None, 1)                 33        
+                                                                 
+=================================================================
+Total params: 977
+Trainable params: 977
+Non-trainable params: 0
+_________________________________________________________________
+Accuracy:	0.896
+Recall:		0.483
+Precision:	0.636
+F1score:	0.549
+True Neg:	83.33%
+False Pos:	3.60%
+False Neg:	6.76%
+True Pos:	6.31%
+
+
+
+
